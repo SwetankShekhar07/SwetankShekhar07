@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwetankShekhar07
 - 👀 I’m interested in Web Development, Cloud, Data Analytics
-- 🌱 I’m currently learning Data Science and Data Analytics
+- 🌱 I’m currently pursuing my B.Tech Degree
 - 📫 How to reach me : You can reach me via email at shekharswetank07@gmail.com.
 - 😄 Pronouns: He/Him
 
