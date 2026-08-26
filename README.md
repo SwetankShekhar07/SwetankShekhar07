@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @SwetankShekhar07
-- 👀 I’m interested in Web Development, Cloud, Data Analytics
-- 🌱 I’m currently pursuing my B.Tech Degree
-- 📫 How to reach me : You can reach me via email at shekharswetank07@gmail.com.
-- 😄 Pronouns: He/Him
+👋 Hi, I'm Swetank Shekhar
+🎓 M.Tech student at IIT (ISM) Dhanbad
+💻 Interested in Web Development | Cloud Computing | Data Analytics | AI/ML
+🚀 I enjoy building projects, learning new technologies, and solving real-world problems.
+
+Languages: Python, C/C++, SQL
+Frontend: HTML, CSS, JS
+Databases: MySQL, PostgreSQL
+Cloud: AWS / Azure 
+Data Analytics: Pandas, NumPy, Matplotlib, Power BI
+Tools: Git, GitHub, VS Code
 
 
 <!---
